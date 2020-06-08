@@ -1,0 +1,6 @@
+@Library('testing_lib123')_
+stage('clean workspace'){
+
+ cleanup()  
+ }
+
